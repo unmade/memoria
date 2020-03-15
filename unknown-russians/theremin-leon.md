@@ -42,7 +42,7 @@ suppressed again and banned from his electronic music projects.
 
 In the Soviet Union Theremin remained unknown for his own inventions.
 
-[The Thing]: https://en.wikipedia.org/wiki/The_Thing_(listening_device)
+[The Thing]: https://en.wikipedia.org/wiki/The_Thing_%28listening_device%29
 
 ## See also
 

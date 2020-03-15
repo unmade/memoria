@@ -62,4 +62,4 @@ manage to make an impact on all of us.
 
 ## See also
 
-- [List_of_Russian_inventors](https://en.wikipedia.org/wiki/List_of_Russian_inventors)
+- [List of Russian inventors](https://en.wikipedia.org/wiki/List_of_Russian_inventors)
