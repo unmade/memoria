@@ -28,3 +28,7 @@ developing.
 
 [Taming of the fire]: https://letterboxd.com/film/taming-of-the-fire/
 [Sergei Korolev]: https://en.wikipedia.org/wiki/Sergei_Korolev
+
+## See also
+
+- [wiki](https://en.wikipedia.org/wiki/Yuri_Kondratyuk)

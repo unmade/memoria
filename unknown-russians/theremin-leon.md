@@ -46,5 +46,6 @@ In the Soviet Union Theremin remained unknown for his own inventions.
 
 ## See also
 
+- [wiki](https://en.wikipedia.org/wiki/Léon_Theremin)
 - [Léon Theremin demonstrates the Thereminvox (1954)](https://www.youtube.com/watch?v=_3H5JbkPXpw)
 - [Theremin at Stanford, 1991](https://www.youtube.com/watch?v=hUgNkROotp0)
