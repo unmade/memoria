@@ -6,7 +6,7 @@ ecosystem.
 I try to keep my setup as minimal as possible. I stick with built-in apps
 whenever it possible. First of all, they are good enough for me, and second - 
 because they are part of Apple ecosystem they support all cool features, like
-[Continuity]. I also install apps with AppStore whenever possible.
+[Continuity]. I also install apps via AppStore whenever possible.
 
 [Continuity]: https://www.apple.com/macos/continuity/
 
@@ -19,8 +19,10 @@ My main browser for everyday surfing. I don't use any extensions for it.
 #### Some tips:
 
 - [Link preview] - killer feature
-- Use `⌘ + /` to toggle full link displayed in the bottom left corner
+- Use `⌘ + /` to toggle full link preview displayed in the bottom left corner
 - Any page can be saved to Apple Books as a PDF via Share menu.
+
+[Link preview]: https://www.igeeksblog.com/how-to-preview-web-page-in-safari-on-mac/
 
 ### Terminal
 
