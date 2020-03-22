@@ -1,4 +1,4 @@
-- [Networking](networking.README.md)
+- [Networking](networking/README.md)
   - [VPN](networking/VPN.md)
   - [SSH](networking/SSH.md)
 - [macOS](macOS/README.md)
