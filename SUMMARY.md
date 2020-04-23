@@ -1,4 +1,6 @@
-- [Development](development/docker.md)
+- [Development](development/README.md)
+  - [Docker](development/docker.md)
+  - [Python](development/python.md)
 - [Networking](networking/README.md)
   - [VPN](networking/VPN.md)
   - [SSH](networking/SSH.md)
