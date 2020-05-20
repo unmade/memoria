@@ -5,6 +5,7 @@
   - [VPN](networking/VPN.md)
   - [SSH](networking/SSH.md)
 - [macOS](macOS/README.md)
+- [Quotes](QUOTES.md)
 - [Unknown Russians](unknown-russians/README.md)
   - [Leon Theremin](unknown-russians/theremin-leon.md)
   - [Yuri Kondratyuk](unknown-russians/kondratyuk-yuri.md)

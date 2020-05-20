@@ -98,3 +98,7 @@ to use [Paragon], there is another freeware app called [Mounty].
 
 [Paragon NTFS]: https://www.paragon-software.com/home/ntfs-mac/
 [Mounty]: https://mounty.app
+
+## Links
+
+- [Development of Apple's original Macintosh](https://www.folklore.org/index.py)
