@@ -1,12 +1,12 @@
 # Python
 
-I love python. If I were ever to write a programming language it'd looked like 
+I love python. If I were ever to write a programming language it'd looked like
 python.
 
 Most of my projects on a GitHub are written in Python. Some of them takes full
 advantage of modern Python (type annotations, dataclasses, etc). Most of them
 are example of how I structure code and how I pay attention to details, but
-sometimes I can do odd things for the sake of trying something new. 
+sometimes I can do odd things for the sake of trying something new.
 
 Although Python is evolving rapidly, it's core remains the same. I'm going to
 put here some articles and talks that are still relevant even some of them are
